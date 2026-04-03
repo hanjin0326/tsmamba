@@ -32,4 +32,4 @@ author = {Han Wu and Hao Sun and Kui Liu and Kefeng Ji and Gangyao Kuang}
 }
 ```
 
-If you have any question, please do not hesitate to contact me at wuhan0326@163.com or hhjj20190326 (WeChat).
+If you have any question, please do not hesitate to contact me at wuhan0326@163.com or hhjj20190326 (微信).
